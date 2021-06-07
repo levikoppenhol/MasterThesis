@@ -3,7 +3,7 @@ import numpy as np
 
 class City:
     """
-    Represents city.
+    Represents city. test
     """
 
     def __init__(self, city_number = None, x = None, y = None):
